@@ -10,7 +10,7 @@ Yellow
 S
 10
 Red
-Xl
+XL
 3
 ```
 
