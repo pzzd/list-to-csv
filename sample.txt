@@ -1,0 +1,18 @@
+Templates and Resources
+Key Activities
+Notes
+Project Charter
+Draft Project Charter, review with key stakeholders and seek final approval before continuing with the project.
+Define a number of key project elements including a project description, scope definition, and roles/responsibilities.  The documentation and review of these key project elements at the beginning of the project helps to avoid misunderstandings or confusion later on.
+Complexity Matrix
+Review project sizing criteria
+Determine the level and type of project management most appropriate for your project.
+Resource Allocation Matrix
+Determine Resource Requirements
+Estimate required resources by role and skill set. Discuss with the manager from each area involved to identify resource availability and gaps.
+Business Case
+Prepare Business Case
+Provide detailed explanation of the scope, cost, and definition of the project. This information is normally required when it is necessary to provide an explanation of the benefits that will be realized as a result of the project. Larger or more complex projects usually require a Business Case.
+Request for Information
+Conduct Vendor Research
+Conduct vendor research to see what technology is currently available in the market place. Contact the procurement office to identify vendors or to prepare a Request for Information (RFI). Consult with peers at other universities to determine potential solutions and their costs, benefits, and risks.
